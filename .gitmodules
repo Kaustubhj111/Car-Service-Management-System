@@ -1,0 +1,3 @@
+[submodule "dbms_front"]
+	path = dbms_front
+	url = https://github.com/Kaustubhj111/Car-Service-Management-System.git
